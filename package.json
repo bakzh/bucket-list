@@ -11,8 +11,16 @@
   "dependencies": {
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
+    "prop-types": "^15.8.1",
     "react": "18.0.0",
-    "react-native": "0.69.4"
+    "react-native": "0.69.4",
+    "styled-component": "^2.8.0",
+    "styled-components": "^5.3.5",
+    "react-native-web": "~0.18.7",
+    "react-dom": "18.0.0",
+    "@expo/webpack-config": "^0.17.0",
+    "@react-native-async-storage/async-storage": "~1.17.3",
+    "expo-app-loading": "~2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
